@@ -1,0 +1,10 @@
+body { background-color: #0f172a; color: #cbd5e1; font-family: system-ui, sans-serif; }
+
+/* Scrollbar Profesional */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #475569; }
+
+/* Utilidades adicionales */
+.glass-effect { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); }
